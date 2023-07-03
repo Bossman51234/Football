@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Football/static/css/main.75a9b3c8.css",
+    "main.js": "/Football/static/js/main.0f83f46f.js",
+    "static/media/scrimmage.jpg": "/Football/static/media/scrimmage.fdf45e0b76c57afb24d8.jpg",
+    "static/media/field6.jpg": "/Football/static/media/field6.e0a177a878995fa1824b.jpg",
+    "static/media/football-image.jpg": "/Football/static/media/football-image.1d645fa642b14c3c09c2.jpg",
+    "static/media/field2.jpg": "/Football/static/media/field2.c848bba7b51b5ec27cbc.jpg",
+    "static/media/field5.jpg": "/Football/static/media/field5.9b12d6f57f0544dd9406.jpg",
+    "static/media/field1.jpg": "/Football/static/media/field1.75daf40da383be8d67a3.jpg",
+    "static/media/field3.jpg": "/Football/static/media/field3.2a8c6bb9dce5c680c57a.jpg",
+    "static/media/tackle_football.jpg": "/Football/static/media/tackle_football.0422789cd7db2724155f.jpg",
+    "static/media/flag_football.jpg": "/Football/static/media/flag_football.71edb226f06cb3328c4b.jpg",
+    "static/media/practice_plays.jpg": "/Football/static/media/practice_plays.dfded4ff6c734a3bc91c.jpg",
+    "static/media/field4.avif": "/Football/static/media/field4.8ae9751ae700e41cf2a1.avif",
+    "static/media/all_practice_program.jpg": "/Football/static/media/all_practice_program.001bdaaedc04e27d8c5d.jpg",
+    "static/media/footwork.jpg": "/Football/static/media/footwork.228f0b4512d727952b67.jpg",
+    "static/media/speed.jpg": "/Football/static/media/speed.5cb6b1786fb037637c2f.jpg",
+    "static/media/cardio.jpg": "/Football/static/media/cardio.f5b0157216c44bcac2a7.jpg",
+    "static/media/touch_football.jpg": "/Football/static/media/touch_football.06285a62517747187bca.jpg",
+    "static/media/everything.jpg": "/Football/static/media/everything.39f5e8c4b42ba651846e.jpg",
+    "static/media/coach1.jpg": "/Football/static/media/coach1.a0a9a7de6e3e13313249.jpg",
+    "index.html": "/Football/index.html",
+    "main.75a9b3c8.css.map": "/Football/static/css/main.75a9b3c8.css.map",
+    "main.0f83f46f.js.map": "/Football/static/js/main.0f83f46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a9b3c8.css",
+    "static/js/main.0f83f46f.js"
+  ]
+}
